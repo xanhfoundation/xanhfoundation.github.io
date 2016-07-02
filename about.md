@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Xanh foundation là một quỹ học bổng cá nhân được khởi xướng bởi Lê Thị Quỳnh Nhi và Phùng Khánh Lâm từ năm 2016 nhằm hỗ trợ một phần tai chính và phi tài chính cho các bạn sinh viên trong lĩnh vực khoa học sức khoẻ để thực hiện các ý tưởng nghiên cứu khoa học của mình.
+Xanh foundation là một quỹ học bổng cá nhân được khởi xướng bởi Lê Thị Quỳnh Nhi và Phùng Khánh Lâm từ năm 2016 nhằm hỗ trợ một phần tài chính và phi tài chính cho các bạn sinh viên trong lĩnh vực khoa học sức khoẻ để thực hiện các ý tưởng nghiên cứu khoa học của mình.
 
 ### Tôn chỉ, mục đích
 
