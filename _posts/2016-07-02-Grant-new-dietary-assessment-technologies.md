@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Grant for new forms of dietary assessment technologies
+author: Phùng Khánh Lâm
 category: Grant
 ---
 
