@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Gates Foundation Fellows 2016
+author: Phùng Khánh Lâm
 category: Fellowship
 ---
 
